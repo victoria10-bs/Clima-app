@@ -13,7 +13,7 @@ jobs:
     # Al definir esto, GitHub activa la sección de "Despliegues"
     environment:
       name: production
-      url: https://tu-sitio-web.com # Opcional: El enlace a tu web para que aparezca un botón directo
+      url: https://github.com/victoria10-bs/Clima-app.git # Opcional: El enlace a tu web para que aparezca un botón directo
 
     steps:
       - name: Descargar código fuente
